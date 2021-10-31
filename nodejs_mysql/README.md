@@ -6,7 +6,11 @@ create connection with anyname and click ok
 
 double click the newly create connection , click continue anyway
 
-open file in vs code and goto terminal , type npm start
+open inside nodejs_mysql folder in VS code and goto terminal ,
+
+type "npm i" press enter
+
+type "npm start"press enter
 
 go to any browser url, type localhost:80/db-create and enter
 
