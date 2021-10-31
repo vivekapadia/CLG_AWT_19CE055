@@ -1,5 +1,2 @@
-layout_using_handlebars/node_modules
-layout_using_handlebars/package-lock.json
-
 nodejs_mysql/node_modules
 nodejs_mysql/package-lock.json
