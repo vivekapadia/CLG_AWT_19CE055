@@ -1,5 +1,5 @@
 {
-  "name": "layout_using_handlebars",
+  "name": "layout_using_handlebar",
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
