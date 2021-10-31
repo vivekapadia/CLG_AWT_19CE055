@@ -12,7 +12,7 @@ const connection = mysql.createConnection({
 	user: "root",
 	password: "",
 	// remove the comment of below property after you have run db-create 
-	database: "University",
+	// database: "University",
 });
 
 connection.connect((err) => {
