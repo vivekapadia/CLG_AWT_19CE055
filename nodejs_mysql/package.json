@@ -1,0 +1,18 @@
+{
+  "name": "mysqltask",
+  "version": "1.0.0",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.14"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "vivekapadia",
+  "license": "ISC",
+  "description": "Kinldy complete retieve record from Mysql and display it on console."
+}
